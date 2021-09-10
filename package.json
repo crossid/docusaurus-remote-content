@@ -6,7 +6,7 @@
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/crossid/docusaurus-plugin-remote-content.git",
+  "repository": "https://github.com/crossid/docusaurus-remote-content.git",
   "publishConfig": {
     "access": "public"
   },
