@@ -1,6 +1,6 @@
 {
   "name": "@crossid/docusaurus-remote-content",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A plugin for Docusaurus to fetch content from remote sources.",
   "main": "lib/index.js",
   "files": [
