@@ -3,6 +3,9 @@
   "version": "0.1.1",
   "description": "A plugin for Docusaurus to fetch content from remote sources.",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "repository": "https://github.com/crossid/docusaurus-plugin-remote-content.git",
   "publishConfig": {
     "access": "public"
